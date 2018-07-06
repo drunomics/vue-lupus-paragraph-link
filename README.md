@@ -1,4 +1,4 @@
-# vue-lupus-paragrpah-link
+# vue-lupus-paragraph-link
 Vue paragraph link component.
 
 
